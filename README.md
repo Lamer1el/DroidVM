@@ -1,4 +1,4 @@
-![DroidVM](images/droidvm.png)
+![DroidVM](droidvm.png)
 DroidVM
 
 Your virtual computer. Anywhere.
