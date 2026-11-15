@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DroidVM</string>
+    <string name="vm_service_channel">Virtual machines</string>
+    <string name="vm_service_description">Keeps the virtual machines you started running while DroidVM is in the background. Stop them from the notification.</string>
+</resources>

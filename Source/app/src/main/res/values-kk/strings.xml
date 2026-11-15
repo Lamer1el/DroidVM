@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vm_service_channel">Виртуалды машиналар</string>
+    <string name="vm_service_description">DroidVM фонда тұрғанда сіз іске қосқан виртуалды машиналардың жұмысын қолдайды. Оларды хабарландырудан тоқтатуға болады.</string>
+</resources>
