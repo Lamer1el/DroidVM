@@ -146,7 +146,7 @@ DroidVM features a modern Material You Expressive interface.
 
 📥 Installation
 
-1. Visit "GitHub Releases" (https://github.com/YOUR_USERNAME/DroidVM/releases).
+1. Visit "GitHub Releases" (https://github.com/Lamer1el/DroidVM/releases).
 2. Select a release.
 3. Download the APK.
 4. Install DroidVM on Android.
